@@ -55,3 +55,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# project
+/src/run_server.py
+/virtualenv/
+
+# ide
+.project
+.pydevproject
